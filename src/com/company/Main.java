@@ -26,6 +26,7 @@ public class Main {
             System.out.println(map2.get("name"));
             System.out.println(map2.get("sex"));
         }
+        System.out.println("123456789");
 
 
 
