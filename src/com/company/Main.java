@@ -27,6 +27,7 @@ public class Main {
             System.out.println(map2.get("sex"));
         }
         System.out.println("1234567890123110099");
+        System.out.println("你好，中国！");
 
 
 
